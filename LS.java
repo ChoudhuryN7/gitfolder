@@ -9,7 +9,6 @@ class LS
         if(arr[i]==a)
         {
             return i;
-            
         }
         
        }
